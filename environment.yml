@@ -31,3 +31,7 @@ dependencies:
   - r-lubridate
   - r-knitr
   - r-rmarkdown
+  conda:
+  solver:
+    timeout: 30
+
