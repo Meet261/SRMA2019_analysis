@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - r-base=4.2.2
+  - r-base=4.3
   - r-tidyverse
   - r-desc
   - r-table1
@@ -27,7 +27,6 @@ dependencies:
   - r-broom.mixed
   - r-ggstance
   - r-stargazer
-  - r-desc
   - r-data.table
   - r-lubridate
   - r-knitr
