@@ -31,4 +31,6 @@ dependencies:
   - r-lubridate
   - r-knitr
   - r-rmarkdown
+  - r-desctools
+
 
