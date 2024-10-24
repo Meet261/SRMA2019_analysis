@@ -4,6 +4,7 @@ channels:
   - defaults
 dependencies:
   - r-base=4.3
+  - rstudio
   - r-tidyverse
   - r-desc
   - r-table1
