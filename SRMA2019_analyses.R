@@ -7,7 +7,7 @@ library(tidyverse)
 
 srmadata <- read_csv("SRMAdata.csv")
 
-View(srmadata)
+#View(srmadata)
 
 ### Data organization ###
 
@@ -36,7 +36,7 @@ srmadata <- srmadata %>% rename(assessors = 2, journal = 3, pubyear = 4,
 
 srmadata$item.removed01 <- NULL
 
-View(srmadata)
+#View(srmadata)
 
 # Redefine columns types to factor
 
