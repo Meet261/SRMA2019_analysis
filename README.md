@@ -1,6 +1,6 @@
 https://mybinder.org/v2/gh/Meet261/SRMA2019_analysis/HEAD
 
-Launch Online [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Meet261/SRMA2019_analysis/HEAD)
+Launch Online [![Binder](https://mybinder.org/badge_logo.svg)](https://notebooks.gesis.org/binder/v2/gh/Meet261/SRMA2019_analysis/HEAD)
 
 | **File Name**                           | **Dependencies**                                                                                                                | **Reproducibility Status**  | **Issue/Obstacle**                                                                                                                                                                                                                                           |
 |-----------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
